@@ -1,0 +1,30 @@
+[
+  {
+    "customerName": "balu1",
+	"customerPhone": "955303874",
+	"customerEmail": "balu1@gmail.com",
+	"customerID": "java1",
+	"customerAge": "1"
+  },
+  {
+    "customerName": "balu2",
+	"customerPhone": "955303872",
+	"customerEmail": "balu2@gmail.com",
+	"customerID": "Mule",
+	"customerAge": "11"
+  },
+  {
+    "customerName": "balu3",
+	"customerPhone": "955303873",
+	"customerEmail": "balu3@gmail.com",
+	"customerID": "Sprint",
+	"customerAge": "111"
+  }, 
+  {
+    "customerName": "balu4",
+	"customerPhone": "955303871",
+	"customerEmail": "balu4@gmail.com",
+	"customerID": "Sql",
+	"customerAge": "1111"
+  }
+]  

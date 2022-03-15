@@ -1,0 +1,30 @@
+[
+  {
+    "customerName": "balu1",
+	"customerPhone": "955303874",
+	"customerEmail": "balu1@gmail.com",
+	"customerID": "1",
+	"customerAge": "1"
+  },
+  {
+    "customerName": "balu1",
+	"customerPhone": "955303874",
+	"customerEmail": "balu1@gmail.com",
+	"customerID": "1",
+	"customerAge": "1"
+  },
+  {
+    "customerName": "balu3",
+	"customerPhone": "955303873",
+	"customerEmail": "balu3@gmail.com",
+	"customerID": "2",
+	"customerAge": "111"
+  }, 
+  {
+    "customerName": "balu4",
+	"customerPhone": "955303871",
+	"customerEmail": "balu4@gmail.com",
+	"customerID": "3",
+	"customerAge": "1111"
+  }
+]  
