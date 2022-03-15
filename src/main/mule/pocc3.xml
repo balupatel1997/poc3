@@ -41,7 +41,7 @@ output application/json
 ---
 {
 	"Status": "200",
-	"Message": "Data Successfully Inserted"
+	"Message": "Data Successfully Inserted Balu"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
